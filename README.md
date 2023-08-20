@@ -8,4 +8,4 @@
 
 💻 Work as C++ Developer.
 
-💪🏽 Work best with visualization and structured process. For more info about how I work https://bit.ly/WorkingWithJason
+💪🏽 Work best with visualization. For more info about how I work https://bit.ly/WorkingWithJason
