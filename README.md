@@ -4,6 +4,8 @@
 
 📚 Hosted a TeamSpeak server with 500 active users per day and Counter-Strike 2D, 1.6 servers (2012 - 2016).
 
+🌇 Live in South Cikarang, with a passion for Data and Managed Service. Can move to BSD City or Jakarta at moment's notice.
+
 💻 Work as Part Time Angular Developer, iOS Developer. Platform to rent spaces, Mereka by Biji-Biji Group. Search Engine for Indonesia Law, Lexicon at Apple Developer Academy.
 
 💪🏽 Work best with visualisation. For more info about how I work https://bit.ly/WorkingWithJason
