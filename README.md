@@ -1,6 +1,6 @@
 👋🏽 Hi, my name is Jason Rich Darmawan.
 
-🎓 Graduated with Bachelor of Management and 3 Coding Bootcamps.
+🎓 Graduated with Bachelor of Management and 3 Coding Bootcamps. Currently researching Computer Vision at Northwestern Polytechnical University
 1. Bachelor in Management with 3.73 GPA (Bell Curve Grading) from Prasetiya Mulya University.
 2. Fullstack Web & Mobile Development with Grade A from G2Academy.
 3. Full Time Data Science with Honors from Hacktiv8.
