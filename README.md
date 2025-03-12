@@ -1,6 +1,6 @@
 👋🏽 Hi, my name is Jason Rich Darmawan
 
-📚 Currently researching Computer Vision at Northwestern Polytechnical University, Xi'an, China
+📚 Currently researching Large Language Model at 西北工业大学, Xi'an, China
 
 🎓 Graduated with Bachelor of Management and 3 Coding Bootcamps
 
