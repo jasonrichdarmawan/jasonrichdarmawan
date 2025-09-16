@@ -1,6 +1,6 @@
 👋🏽 Hi, my name is Jason Rich Darmawan
 
-📚 Currently researching Large Language Model at 西北工业大学
+📚 Currently researching Large Language Model
 
 🎓 Graduated with Bachelor of Management and 3 Coding Bootcamps
 
